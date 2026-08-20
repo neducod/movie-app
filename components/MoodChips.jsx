@@ -1,6 +1,4 @@
-"use client";
-
-import { MOODS } from "@/data/moods";
+import { MOODS } from "../data/moods";
 
 export function MoodChips({ selected, onSelect }) {
   return (
