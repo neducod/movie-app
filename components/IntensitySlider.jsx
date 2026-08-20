@@ -1,6 +1,4 @@
-"use client";
-
-import { INTENSITY_MARKS } from "@/data/moods";
+import { INTENSITY_MARKS } from "../data/moods";
 
 export function IntensitySlider({ value, onChange }) {
   const activeMark = INTENSITY_MARKS.find((m) => m.value === value);
