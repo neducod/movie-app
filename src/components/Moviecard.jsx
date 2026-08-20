@@ -1,4 +1,4 @@
-import { formatRuntime } from "@/lib/matching";
+import { formatRuntime } from "../lib/matching";
 import { StreamingBadges } from "./StreamingBadges";
 
 export function MovieCard({ recommendation }) {

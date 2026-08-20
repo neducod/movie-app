@@ -1,4 +1,4 @@
-import { PROVIDERS } from "@/data/providers";
+import { PROVIDERS } from "../data/providers";
 
 export function StreamingBadges({ providerIds, movieTitle }) {
   return (

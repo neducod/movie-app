@@ -1,6 +1,4 @@
-"use client";
-
-import { ENDING_PREFERENCES } from "@/data/moods";
+import { ENDING_PREFERENCES } from "../data/moods";
 
 export function EndingSelector({ selected, onSelect }) {
   return (
