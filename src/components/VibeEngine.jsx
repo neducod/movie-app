@@ -1,5 +1,3 @@
-"use client";
-
 import { MoodChips } from "./MoodChips";
 import { IntensitySlider } from "./IntensitySlider";
 import { EndingSelector } from "./EndingSelector";
